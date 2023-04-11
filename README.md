@@ -1,4 +1,4 @@
-# tetris-lololol
+# minesweeper-lololol
 
 also nicht ernstnehmen ja. das is "mein" ältestes projekt.
 
